@@ -11,3 +11,11 @@ Conflictos: En caso de un conflicto de merge, muestra los archivos con conflicto
 CARLOS:¿Cómo fusionas una rama con la principal?
 Para fusionar una rama con la principal en Git, se utiliza el comando git merge.
 CARLOS:¿Qué diferencia hay entre git pull y git fetch?
+git fetch
+Descarga las actualizaciones del repositorio remoto (commits, ramas, etiquetas, etc.) y las guarda en tu repositorio local.
+No realiza ninguna fusión ni modifica tu rama actual automáticamente.
+Es útil para revisar los cambios remotos antes de integrarlos.
+
+git pull
+Es una combinación de dos comandos: git fetch (descargar los cambios) seguido de git merge (fusionar los cambios remotos con tu rama actual).
+Actualiza tu rama de trabajo directamente al traer los cambios del remoto.
