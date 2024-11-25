@@ -1,0 +1,2 @@
+CARLOS:¿Qué comando se usa para clonar un repositorio remoto?
+git clone con la url del repositorio
