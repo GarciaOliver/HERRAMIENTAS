@@ -8,3 +8,4 @@ Cambios en el área de trabajo: Archivos modificados, nuevos o eliminados que a�
 Cambios en el área de preparación: Archivos que ya han sido añadidos al área de preparación y están listos para ser confirmados (committed).
 Archivos sin seguimiento (untracked): Archivos nuevos que Git detecta en el directorio de trabajo pero que aún no están siendo rastreados.
 Conflictos: En caso de un conflicto de merge, muestra los archivos con conflictos pendientes de resolución.
+CARLOS:¿Cómo fusionas una rama con la principal?
