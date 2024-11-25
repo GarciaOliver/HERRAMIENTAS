@@ -1,2 +1,3 @@
 CARLOS:¿Qué comando se usa para clonar un repositorio remoto?
 git clone con la url del repositorio
+CARLOS:¿Cómo se crea una nueva rama en Git?
