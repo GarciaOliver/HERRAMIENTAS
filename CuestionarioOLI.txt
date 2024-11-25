@@ -3,3 +3,8 @@ git clone con la url del repositorio
 CARLOS:¿Cómo se crea una nueva rama en Git?
 Se debe utilizar el comando git checkout -b "Nombre de la rama"
 CARLOS:¿Qué hace el comando git status?
+El comando git status muestra el estado actual del repositorio en Git, incluyendo información sobre:
+Cambios en el área de trabajo: Archivos modificados, nuevos o eliminados que aún no han sido añadidos al área de preparación (staging area).
+Cambios en el área de preparación: Archivos que ya han sido añadidos al área de preparación y están listos para ser confirmados (committed).
+Archivos sin seguimiento (untracked): Archivos nuevos que Git detecta en el directorio de trabajo pero que aún no están siendo rastreados.
+Conflictos: En caso de un conflicto de merge, muestra los archivos con conflictos pendientes de resolución.
