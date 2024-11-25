@@ -1,1 +1,3 @@
 El versionamiento es bastante complejo, pero una vez que pasa la adaptación, se crea un mundo de posibilidades y oportunidades.
+
+Carlos:El versionado es una técnica que permite gestionar y mantener diferentes versiones del código dentro de un proyecto. Esta práctica facilita no solo el registro de cambios realizados a lo largo del tiempo, sino también la posibilidad de revertir a versiones anteriores del código cuando sea necesario, lo que resulta invaluable para corregir errores o restaurar una versión estable del proyecto.
