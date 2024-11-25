@@ -2,3 +2,4 @@ CARLOS:¿Qué comando se usa para clonar un repositorio remoto?
 git clone con la url del repositorio
 CARLOS:¿Cómo se crea una nueva rama en Git?
 Se debe utilizar el comando git checkout -b "Nombre de la rama"
+CARLOS:¿Qué hace el comando git status?
